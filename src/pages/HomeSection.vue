@@ -5,7 +5,7 @@
         <h4 class="mt-4 font-medium lg:text-lg md:text-base text-sm lg:text-center text-justify">Freelance web developer. With a passion for turning visions into visual masterpieces, I specialize in creating websites according to client requests.</h4>
         <a href="#projects" class="mt-8 bg-[#222222] text-white font-bold lg:text-lg md:text-base text-sm uppercase px-6 py-3 rounded-full">👉 Explore My Projects</a>
         <div class="mt-10 w-full">
-            <img src="https://images.unsplash.com/photo-1701505708183-59f709e7d4e6?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="object-cover h-[35rem] w-full rounded-3xl">
+            <img src="https://images.unsplash.com/photo-1701505708183-59f709e7d4e6?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="object-cover h-[35rem] w-full rounded-3xl" alt="Profile Image">
         </div>
     </div>
 </template>

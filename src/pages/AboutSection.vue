@@ -11,22 +11,22 @@
         </div>
         <div class="grid xl:grid-cols-3 md:grid-cols-2 md:gap-10 gap-6 mt-6">
             <div class="bg-white border border-gray-100 shadow-sm w-full rounded-[20px] p-8">
-                <img src="../assets/laravel.svg" alt="" class="w-12 h-12">
+                <img src="../assets/laravel.svg" alt="Laravel Image" class="w-12 h-12">
                 <p class="font-bold text-xl">Laravel</p>
                 <p class="mt-2">Using Tailwind.css, leveraging its utility-first approach to build modern web app .</p>
             </div>
             <div class="bg-white border border-gray-100 shadow-sm w-full rounded-[20px] p-8">
-                <img src="../assets/tailwind-css.svg" alt="" class="w-12 h-12">
+                <img src="../assets/tailwind-css.svg" alt="Tailwind.css Image" class="w-12 h-12">
                 <p class="font-bold text-xl">Tailwind.css</p>
                 <p class="mt-2">Using Tailwind.css, leveraging its utility-first approach to build modern web app .</p>
             </div>
             <div class="bg-white border border-gray-100 shadow-sm w-full rounded-[20px] p-8">
-                <img src="../assets/bootstrap-5.svg" alt="" class="w-12 h-12">
+                <img src="../assets/bootstrap-5.svg" alt="Bootstrap Image" class="w-12 h-12">
                 <p class="font-bold text-xl">Bootstrap</p>
                 <p class="mt-2">Using Tailwind.css, leveraging its utility-first approach to build modern web app .</p>
             </div>
             <div class="bg-white border border-gray-100 shadow-sm w-full rounded-[20px] p-8">
-                <img src="../assets/vue.svg" alt="" class="w-12 h-12">
+                <img src="../assets/vue.svg" alt="Vue.js Image" class="w-12 h-12">
                 <p class="font-bold text-xl">Vue.js</p>
                 <p class="mt-2">Using Tailwind.css, leveraging its utility-first approach to build modern web app .</p>
             </div>
