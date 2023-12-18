@@ -5,7 +5,7 @@
         <p class="mt-4 font-medium lg:text-lg md:text-base text-sm lg:text-center text-justify">Freelance web developer. With a passion for turning visions into visual masterpieces, I specialize in creating websites according to client requests.</p>
         <a href="#projects" class="mt-8 bg-[#222222] text-white font-bold lg:text-lg md:text-base text-sm uppercase px-6 py-3 rounded-full">👉 Explore My Projects</a>
         <div class="mt-10 w-full">
-            <img src="../assets/profileImage.jpg" class="object-cover h-[35rem] w-full rounded-3xl" alt="Profile Image">
+            <img src="../assets/profileImage.webp" class="object-cover h-[35rem] w-full rounded-3xl" alt="Profile Image">
         </div>
     </div>
 </template>
