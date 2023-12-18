@@ -8,16 +8,17 @@
                 if(window.scrollY > navbar.offsetTop) {
                     active.value = true
                 } else {
-                    active.value = false
+                    active.value = true
                 }
             }
         })
 </script>
 <template>
-    <nav id="nav" class="bg-white border border-gray-100 shadow-sm text-[#222222] rounded-full md:py-6 py-4  transition-all ease-in-out duration-75" :class="{'fixed w-full top-0 left-0 rounded-none': active, 'relative':!active}">
+    <nav id="nav" class="bg-white border border-gray-100 shadow-sm text-[#222222] md:py-2 py-4 xl:px-32 transition-all ease-in-out duration-75 fixed w-full top-0 left-0 rounded-none">
+    <!-- <nav id="nav" class="bg-white border border-gray-100 shadow-sm text-[#222222] rounded-full md:py-6 py-4  transition-all ease-in-out duration-75" :class="{'fixed w-full top-0 left-0 rounded-none': active, 'relative':!active}"> -->
         <div class="flex justify-between px-7 text-lg items-center font-monaSans">
             <p class="font-bold uppercase tracking-wider">Dadi <span class="hidden md:inline">Suhendi</span></p>
-            <ul class="md:flex gap-6 font-semibold items-center absolute right-3 hidden">
+            <ul class="md:flex gap-6 font-semibold items-center hidden">
                 <li><a href="#home">I'am</a></li>
                 <li><a href="#projects">Projects</a></li>
                 <li><a href="#">About</a></li>
