@@ -21,8 +21,8 @@
             <ul class="md:flex gap-6 font-semibold items-center hidden">
                 <li><a href="#home">I'am</a></li>
                 <li><a href="#projects">Projects</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#" class="w-[120px] border border-gray-200 shadow-sm flex items-center justify-center py-3 rounded-full font-bold">Resume</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="https://drive.google.com/file/d/1SsKRITpHflSxDR1ly6lGj4zz5UTtSP01/view?usp=sharing" target="_blank" class="w-[120px] border border-gray-200 shadow-sm flex items-center justify-center py-3 rounded-full font-bold">Resume</a></li>
             </ul>
             <div class="md:hidden transition-all duration-700 delay-300" :class="(open) ? '-mr-24' : ''">
                 <button class="text-[#222222] w-10 h-10 relative focus:outline-none" @click="open = !open">
