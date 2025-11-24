@@ -1,8 +1,31 @@
 <template>
     <div class="grid xl:grid-cols-3 md:grid-cols-2 md:gap-10 gap-6">
         <div class="bg-white border border-gray-100 shadow-sm w-full rounded-[30px] lg:p-12 p-7">
-            <img src="../assets/projects/krakatoa.png" alt="Krakatoa Amazing Tour" class="w-full h-[400px] rounded-3xl m-auto object-cover">
-            <p class="text-2xl font-bold mt-7 text-[#222222]">Website Krakatoa Amazing Tour</p>
+            <img src="../assets/projects/heru-anwari.png" alt="Heru Anwari" class="w-full h-[400px] rounded-3xl m-auto object-cover">
+            <p class="text-2xl font-bold mt-7 text-[#222222]">Heru Anwari</p>
+            <p class="font-semibold md:text-base text-sm mt-2 uppercase text-[#222222]">
+                Tech I've Used: 
+                <div class="flex gap-4 mt-2">
+                    <img src="../assets/laravel.svg" alt="Laravel Image" class="w-6 h-6">
+                    <img src="../assets/bootstrap-5.svg" alt="Bootstrap Image" class="w-6 h-6">
+                </div>
+            </p>
+            <p class="font-semibold md:text-base text-sm mt-4 uppercase text-[#222222]">
+                Project Type: 
+                <div class="flex gap-4 mt-2">
+                    Commercial Website
+                </div>
+            </p>
+            <p class="font-semibold md:text-base text-sm mt-4 uppercase text-[#222222]">
+                You can visit this project at:
+                <div class="flex gap-4 mt-2">
+                    <a href="https://heruanwaribmx.com" class="text-blue-500 hover:text-blue-700" target="_blank">https://heruanwaribmx.com</a>
+                </div>
+            </p>
+        </div>
+        <div class="bg-white border border-gray-100 shadow-sm w-full rounded-[30px] lg:p-12 p-7">
+            <img src="../assets/projects/e-voting-pramuka.png" alt="E-Voting Pramuka UNMA Banten" class="w-full h-[400px] rounded-3xl m-auto object-cover">
+            <p class="text-2xl font-bold mt-7 text-[#222222]">E-Voting Pramuka UNMA Banten</p>
             <p class="font-semibold md:text-base text-sm mt-2 uppercase text-[#222222]">
                 Tech I've Used: 
                 <div class="flex gap-4 mt-2">
@@ -19,7 +42,7 @@
             <p class="font-semibold md:text-base text-sm mt-4 uppercase text-[#222222]">
                 You can visit this project at:
                 <div class="flex gap-4 mt-2">
-                    <a href="https://krakatoa-amazingtour.com" class="text-blue-500 hover:text-blue-700" target="_blank">https://krakatoa-amazingtour.com</a>
+                    <a href="https://pramukaunma.com" class="text-blue-500 hover:text-blue-700" target="_blank">https://pramukaunma.com</a>
                 </div>
             </p>
         </div>
@@ -43,6 +66,29 @@
                 You can visit this project at:
                 <div class="flex gap-4 mt-2">
                     <a href="https://play.google.com/store/apps/details?id=com.tegalwangi.sipikat&pcampaignid=web_share" class="text-blue-500 hover:text-blue-700" target="_blank">Go to playstore</a>
+                </div>
+            </p>
+        </div>
+        <div class="bg-white border border-gray-100 shadow-sm w-full rounded-[30px] lg:p-12 p-7">
+            <img src="../assets/projects/krakatoa.png" alt="Krakatoa Amazing Tour" class="w-full h-[400px] rounded-3xl m-auto object-cover">
+            <p class="text-2xl font-bold mt-7 text-[#222222]">Krakatoa Amazing Tour</p>
+            <p class="font-semibold md:text-base text-sm mt-2 uppercase text-[#222222]">
+                Tech I've Used: 
+                <div class="flex gap-4 mt-2">
+                    <img src="../assets/laravel.svg" alt="Laravel Image" class="w-6 h-6">
+                    <img src="../assets/tailwind-css.svg" alt="Tailwind Image" class="w-6 h-6">
+                </div>
+            </p>
+            <p class="font-semibold md:text-base text-sm mt-4 uppercase text-[#222222]">
+                Project Type: 
+                <div class="flex gap-4 mt-2">
+                    Commercial Website
+                </div>
+            </p>
+            <p class="font-semibold md:text-base text-sm mt-4 uppercase text-[#222222]">
+                You can visit this project at:
+                <div class="flex gap-4 mt-2">
+                    <a href="https://krakatoa-amazingtour.com" class="text-blue-500 hover:text-blue-700" target="_blank">https://krakatoa-amazingtour.com</a>
                 </div>
             </p>
         </div>
