@@ -1,6 +1,31 @@
 <template>
     <div class="grid xl:grid-cols-3 md:grid-cols-2 md:gap-10 gap-6">
         <div class="bg-white border border-gray-100 shadow-sm w-full rounded-[30px] lg:p-12 p-7">
+            <img src="../assets/projects/relapse.png" alt="Relapse" class="w-full h-[400px] rounded-3xl m-auto object-cover">
+            <p class="text-2xl font-bold mt-7 text-[#222222]">Relapse</p>
+            <p class="font-semibold md:text-base text-sm mt-2 uppercase text-[#222222]">
+                Tech I've Used: 
+                <div class="flex gap-4 mt-2">
+                    <img src="../assets/React-icon.svg.png" alt="React Image" class="w-6 h-6">
+                    <img src="../assets/Typescript_logo_2020.svg.png" alt="Typescript Image" class="w-6 h-6">
+                    <img src="../assets/laravel.svg" alt="Laravel Image" class="w-6 h-6">
+                    <img src="../assets/tailwind-css.svg" alt="Tailwind CSS Image" class="w-6 h-6">
+                </div>
+            </p>
+            <p class="font-semibold md:text-base text-sm mt-4 uppercase text-[#222222]">
+                Project Type: 
+                <div class="flex gap-4 mt-2">
+                    Personal Project
+                </div>
+            </p>
+            <p class="font-semibold md:text-base text-sm mt-4 uppercase text-[#222222]">
+                You can visit this project at:
+                <div class="flex gap-4 mt-2">
+                    <a href="https://relapse.life" class="text-blue-500 hover:text-blue-700" target="_blank">https://relapse.life</a>
+                </div>
+            </p>
+        </div>
+        <div class="bg-white border border-gray-100 shadow-sm w-full rounded-[30px] lg:p-12 p-7">
             <img src="../assets/projects/heru-anwari.png" alt="Heru Anwari" class="w-full h-[400px] rounded-3xl m-auto object-cover">
             <p class="text-2xl font-bold mt-7 text-[#222222]">Heru Anwari</p>
             <p class="font-semibold md:text-base text-sm mt-2 uppercase text-[#222222]">
